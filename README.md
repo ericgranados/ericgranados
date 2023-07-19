@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eric, an <a href="https://linkedin.com/in/eric-granados-03982328">IT Professional</a>☺</h1>
+<h1>Hi, I'm Eric, an <a href="https://linkedin.com/in/ericgranados">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/#
 [instagram]: https://www.instagram.com/#
-[linkedin]: https://linkedin.com/in/#
+[linkedin]: https://linkedin.com/in/ericgranados
